@@ -1,4 +1,4 @@
-public class Main{
+public class TestClass{
 
 public static void main(String[]args){
   for(String a:args){
